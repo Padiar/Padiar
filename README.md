@@ -1,20 +1,3 @@
-<!--<h2 align="center">Olá, Sou Gustavo Padiar</h2>
-<p align="center">💻 Estudante de Ciência da Computação | 🐧 Apaixonado por Códigos | 🚀 Começando no mundo Dev</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Padiar&show_icons=true&theme=radical" width="350">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padiar&show_icons=true&layout=compact&theme=radical" width="350">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>-->
-
-
 <h2 align="center">Olá, Sou Gustavo Padiar 👋</h2>
 <p align="center">💻 Estudante de Ciência da Computação | 🐧 Apaixonado por Códigos | 🚀 Começando no mundo Dev</p>
 
@@ -46,22 +29,6 @@
   <img src="https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill">
 </p>
 
----
-
-### 🔥 Meus Projetos
-<p align="center">
-  <a href="https://github.com/Padiar/Projeto1">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Projeto1" width="50"/>
-  </a>
-  <a href="https://github.com/Padiar/Projeto2">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Projeto2" width="50"/>
-  </a>
-  <a href="https://github.com/Padiar/Projeto3">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Projeto3" width="50"/>
-  </a>
-</p>
-
----
 
 ### 📈 GitHub Streak & Commits
 <p align="center">
